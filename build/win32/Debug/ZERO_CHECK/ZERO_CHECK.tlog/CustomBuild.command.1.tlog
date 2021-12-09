@@ -1,0 +1,10 @@
+^D:\SEMESTER 7 (2021 2022)\TUGAS AKHIR PMC 13219601\BUILD\CMAKEFILES\0E285E9A56BA2DA0AE550960A65F9303\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/SEMESTER 7 (2021 2022)/Tugas Akhir PMC 13219601" "-BD:/SEMESTER 7 (2021 2022)/Tugas Akhir PMC 13219601/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/SEMESTER 7 (2021 2022)/Tugas Akhir PMC 13219601/build/my_project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

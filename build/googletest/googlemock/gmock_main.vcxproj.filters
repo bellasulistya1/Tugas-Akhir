@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\SEMESTER 7 (2021 2022)\Tugas Akhir PMC 13219601\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SEMESTER 7 (2021 2022)\Tugas Akhir PMC 13219601\googletest\googlemock\src\gmock-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SEMESTER 7 (2021 2022)\Tugas Akhir PMC 13219601\googletest\googlemock\src\gmock_main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\SEMESTER 7 (2021 2022)\Tugas Akhir PMC 13219601\googletest\googlemock\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1B30833C-88B2-379E-B9B7-7FBF287F866D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

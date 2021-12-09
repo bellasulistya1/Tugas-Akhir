@@ -1,0 +1,54 @@
+Start testing: Dec 09 14:09 SE Asia Standard Time
+----------------------------------------------------------
+1/1 Testing: TugasakhirTests
+1/1 Test: TugasakhirTests
+Command: "D:/SEMESTER 7 (2021 2022)/Tugas Akhir PMC 13219601/build/test/Debug/TugasakhirTests.exe"
+Directory: D:/SEMESTER 7 (2021 2022)/Tugas Akhir PMC 13219601/build/test
+"TugasakhirTests" start time: Dec 09 14:09 SE Asia Standard Time
+Output:
+----------------------------------------------------------
+Running main() from D:\SEMESTER 7 (2021 2022)\Tugas Akhir PMC 13219601\googletest\googletest\src\gtest_main.cc
+[==========] Running 6 tests from 6 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from Tugasakhir_Maxab_Test
+[ RUN      ] Tugasakhir_Maxab_Test.maxab
+[       OK ] Tugasakhir_Maxab_Test.maxab (0 ms)
+[----------] 1 test from Tugasakhir_Maxab_Test (0 ms total)
+
+[----------] 1 test from Tugasakhir_Tukar_Test
+[ RUN      ] Tugasakhir_Tukar_Test.tukar
+[       OK ] Tugasakhir_Tukar_Test.tukar (0 ms)
+[----------] 1 test from Tugasakhir_Tukar_Test (0 ms total)
+
+[----------] 1 test from Tugasakhir_JamToDetik_Test
+[ RUN      ] Tugasakhir_JamToDetik_Test.jamtodetik
+[       OK ] Tugasakhir_JamToDetik_Test.jamtodetik (0 ms)
+[----------] 1 test from Tugasakhir_JamToDetik_Test (0 ms total)
+
+[----------] 1 test from Tugasakhir_DetikToJam_Test
+[ RUN      ] Tugasakhir_DetikToJam_Test.detiktojam
+[       OK ] Tugasakhir_DetikToJam_Test.detiktojam (0 ms)
+[----------] 1 test from Tugasakhir_DetikToJam_Test (0 ms total)
+
+[----------] 1 test from Tugasakhir_Succ_Test
+[ RUN      ] Tugasakhir_Succ_Test.succ
+[       OK ] Tugasakhir_Succ_Test.succ (0 ms)
+[----------] 1 test from Tugasakhir_Succ_Test (0 ms total)
+
+[----------] 1 test from Tugasakhir_Pred_Tests
+[ RUN      ] Tugasakhir_Pred_Tests.pred
+[       OK ] Tugasakhir_Pred_Tests.pred (0 ms)
+[----------] 1 test from Tugasakhir_Pred_Tests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 6 test suites ran. (3 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.83 sec
+----------------------------------------------------------
+Test Passed.
+"TugasakhirTests" end time: Dec 09 14:09 SE Asia Standard Time
+"TugasakhirTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 09 14:09 SE Asia Standard Time
